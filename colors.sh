@@ -5,4 +5,4 @@ G="\e[32m"
 Y="\e[33m"
 N="\e[0m"
 
-echo -e " $R Hello world, $Y color printed in yellow, $B printed in blue color"
+echo -e " $R Hello world $N, $Y color printed in yellow $N, $B printed in blue color $N"
